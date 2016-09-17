@@ -15,7 +15,7 @@ Say we have some business review with 4 sentences and we want to classify the re
 
 ## Vocabulary
 
-##### Terms
+#### Terms
 
 Terms include words and phrases, but could also include punctuation, emojis, and emoticons as those can also imply mood or feeling. Words that we determine indicate positive or negative sentiment are called **sentiment words, or opinion words.**
 
